@@ -14,3 +14,4 @@ Prototype to prioritize medical images (e.g., chest X-rays) by flagging likely a
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+----
