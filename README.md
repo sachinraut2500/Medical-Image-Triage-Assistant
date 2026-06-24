@@ -7,7 +7,7 @@ Prototype to prioritize medical images (e.g., chest X-rays) by flagging likely a
 - `src/model.py` — small CNN (PyTorch)
 - `src/train.py` — training script (example uses dummy labels; replace with real labeled dataset)
 - `src/infer.py` — inference that outputs `abnormal_prob` and `flag` per image
--------------
+---------------
 ## Quickstart
 1. Create venv and install:
 ```bash
